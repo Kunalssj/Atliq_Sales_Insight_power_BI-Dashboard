@@ -26,8 +26,8 @@ visual representation to make data driven decisions. So, he hired a team of data
 ---
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
+![image alt](https://github.com/Kunalssj/Atliq_Sales_Insight_power_BI-Dashboard/blob/59a585c97adafc8501dc80e9531e57e2cf8bbe22/Dataset/AIMS.jpg)
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
 
 ## Steps Followed in this project
 
@@ -43,14 +43,13 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+![image alt](https://github.com/Kunalssj/Atliq_Sales_Insight_power_BI-Dashboard/blob/59a585c97adafc8501dc80e9531e57e2cf8bbe22/Dataset/Inital_report.png)
 
 #### Updated Dashboard
-
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+[
+![image alt](https://github.com/Kunalssj/Atliq_Sales_Insight_power_BI-Dashboard/blob/59a585c97adafc8501dc80e9531e57e2cf8bbe22/Dataset/Final_report.png)
 
 #### Interactive dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+![image alt](https://github.com/Kunalssj/Atliq_Sales_Insight_power_BI-Dashboard/blob/59a585c97adafc8501dc80e9531e57e2cf8bbe22/Dataset/Final_report.png)
